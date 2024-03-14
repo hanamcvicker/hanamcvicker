@@ -1,4 +1,4 @@
-<h1 align="center">Hi There 👋, I'm Hana</h1>
+<h1 align="center">Hi There 👋 I'm Hana</h1>
 <h3 align="center">Recent Graduate in Electrical and Computer Engineering</h3>
 <img align="right" alt="Coding" width="250" height ="250" src="https://media0.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47ft2n1ch09ve97y7r5pglwcktpfi7fk7mi3j7xoyg&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="aws"/>
 
